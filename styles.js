@@ -598,8 +598,8 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/konstantinpolianskii/Library/Mobile Documents/com~apple~CloudDocs/iCloudWebStorm/nav3/node_modules/bootstrap/dist/css/bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
-module.exports = __webpack_require__(/*! /Users/konstantinpolianskii/Library/Mobile Documents/com~apple~CloudDocs/iCloudWebStorm/nav3/src/styles.css */"./src/styles.css");
+__webpack_require__(/*! /Users/kostya/Library/Mobile Documents/com~apple~CloudDocs/iCloudWebStorm/nav3/node_modules/bootstrap/dist/css/bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+module.exports = __webpack_require__(/*! /Users/kostya/Library/Mobile Documents/com~apple~CloudDocs/iCloudWebStorm/nav3/src/styles.css */"./src/styles.css");
 
 
 /***/ })
